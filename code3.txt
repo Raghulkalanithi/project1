@@ -1,1 +1,1 @@
-cerate or replace trigger trg_upd_sal
+create or replace trigger trg_upd_sal
