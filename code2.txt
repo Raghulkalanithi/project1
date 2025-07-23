@@ -1,0 +1,5 @@
+declare 
+variable
+begin
+statements
+end;
