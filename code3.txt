@@ -1,0 +1,1 @@
+cerate or replace trigger trg_upd_sal
